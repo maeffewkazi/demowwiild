@@ -1,0 +1,244 @@
+<nav class="menu js-menu js-menu-scrollable">
+    <!--  -->
+    <div class="menu__top"></div>
+    <div class="menu__content ">
+        <div class="menu__content__inner menu__content__inner--no-links">
+            <div class="menu__content__item">
+                <a href="../work.html" class="js-menu-link menu-link--big">
+                    <div class="menu-link__title">
+                        Work
+                        <span class="menu-link__hover">
+                <span class="wild-id">
+                    W / 000
+                </span>
+                        </span>
+                    </div>
+                </a>
+            </div>
+
+            <div class="menu__content__item">
+                <a href="../about.html" class="js-menu-link menu-link--big">
+                    <div class="menu-link__title">
+                        About
+                        <span class="menu-link__hover">
+                <span class="wild-id">
+                    A / 000
+                </span>
+                        </span>
+                    </div>
+                </a>
+            </div>
+
+            <div class="menu__content__item">
+                <a href="../news.html" class="js-menu-link menu-link--big">
+                    <div class="menu-link__title">
+                        News
+                        <span class="menu-link__hover">
+                <span class="wild-id">
+                    N / 000
+                </span>
+                        </span>
+                    </div>
+                </a>
+            </div>
+
+            <div class="menu__content__item">
+                <a href="../contact.html" class="js-menu-link menu-link--big">
+                    <div class="menu-link__title">
+                        Contact
+                        <span class="menu-link__hover">
+                <span class="wild-id">
+                    C / 000
+                </span>
+                        </span>
+                    </div>
+                </a>
+            </div>
+
+
+
+        </div>
+    </div>
+    <!--  -->
+    <div class="menu__footer">
+        <div class="menu__legal">
+            <a href="../privacy.html" class="js-menu-link">Privacy Policy</a>
+
+            <a href="../imprint.html" class="js-menu-link">Imprint</a>
+
+
+        </div>
+        <div class="menu__social">
+            <div class="social  ">
+                <a href="https://twitter.com/madebywild" target="_blank" rel="noopener nofollow" class="social__link social__link--t"></a>
+                <a href="https://github.com/madebywild" target="_blank" rel="noopener nofollow" class="social__link social__link--g"></a>
+                <a href="https://www.instagram.com/madebywild/" target="_blank" rel="noopener nofollow" class="social__link social__link--i"></a>
+                <a href="https://medium.com/madebywild" target="_blank" rel="noopener nofollow" class="social__link social__link--m"></a>
+                <a href="https://www.facebook.com/wild.studio.vie/" target="_blank" rel="noopener nofollow" class="social__link social__link--f"></a>
+            </div>
+        </div>
+    </div>
+</nav>
+
+<section class="search js-search">
+    <div class="container">
+        <div class="row search__input__row">
+            <div class="gr-24 ">
+                <div class="search__input__wrapper">
+                    <form action="#" class="search-form js-search-form">
+                        <input class="search__input js-search-input" type="text" placeholder="Start typing">
+                    </form>
+                    <div class="search__input__text">
+                        <input class="search__input__text__autocomplete js-search-input-autocomplete" type="text">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row row-full">
+            <div class="search__line"></div>
+        </div>
+        <div class="row">
+            <div class="gr-24">
+                <div class="search__section js-search-content">
+                    <ul class="search__ul">
+                        <li class="search__li search__li--first">
+                            <a href="../work.html" class="ga-search-link">
+                                <span class="search__section__title js-collection js-collection-projects ">
+          Selected Projects
+        </span>
+                            </a>
+                        </li>
+
+
+                        <li class="search__li js-search-item " data-collection="projects" data-title="Framed" data-content="Framed" data-extra="" data-wild="W / 069" id="28056a60-d0a5-11eb-89dd-09ce92f3740b">
+                            <a href="framed.html" class="search__target-link ga-search-link">
+                                <div class="title">
+                                    <span class="wild-id wild-id--light">W / 069</span>
+                                    <span class="title__headline">Framed</span>
+                                </div>
+                            </a>
+                        </li>
+
+                        <li class="search__li js-search-item " data-collection="projects" data-title="Template Project 01" data-content="Template Project 01" data-extra="" data-wild="W / 013" id="28056a60-d0a5-11eb-89dd-09ce92f3740b">
+                            <a href="project-template-01.html" class="search__target-link ga-search-link">
+                                <div class="title">
+                                    <span class="wild-id wild-id--light">W / 013</span>
+                                    <span class="title__headline">Template Project 01</span>
+                                </div>
+                            </a>
+                        </li>
+
+                        <li class="search__li js-search-item " data-collection="projects" data-title="Template Project 02" data-content="Template Project 02" data-extra="" data-wild="W / 014" id="28056a60-d0a5-11eb-89dd-09ce92f3740b">
+                            <a href="project-template-02.html" class="search__target-link ga-search-link">
+                                <div class="title">
+                                    <span class="wild-id wild-id--light">W / 014</span>
+                                    <span class="title__headline">Template Project 02</span>
+                                </div>
+                            </a>
+                        </li>
+
+                        <li class="search__li js-search-item " data-collection="projects" data-title="Template Project 03" data-content="Template Project 03" data-extra="" data-wild="W / 015" id="28056a60-d0a5-11eb-89dd-09ce92f3740b">
+                            <a href="project-template-03.html" class="search__target-link ga-search-link">
+                                <div class="title">
+                                    <span class="wild-id wild-id--light">W / 015</span>
+                                    <span class="title__headline">Template Project 03</span>
+                                </div>
+                            </a>
+                        </li>
+
+
+
+                        <li class="search__li search__li--first">
+                            <a href="../about.html" class="ga-search-link">
+                                <span class="search__section__title js-collection js-collection-news ">
+          About
+        </span>
+                            </a>
+                        </li>
+                        <li class="search__li js-search-item search__li--last" data-collection="" data-title="about" data-content="about" data-extra="" data-wild="W / 075
+" id="28066ac0-d0a5-11eb-aac3-ff93e6b1edde">
+                            <a href="../about.html" class="search__target-link ga-search-link">
+                                <div class="title">
+                                    <span class="wild-id wild-id--light">
+            A / 000
+          </span>
+                                    <span class="title__headline">About</span>
+                                </div>
+                            </a>
+                        </li>
+                        <li class="search__li search__li--first">
+                            <a href="../news.html" class="ga-search-link">
+                                <span class="search__section__title js-collection js-collection-news ">
+          News
+        </span>
+                            </a>
+                        </li>
+                        <li class="search__li  js-search-item " data-collection="news" data-title="We have a new website!" data-content="We have a new website!" data-extra="" data-wild="N / 001
+" id="2808f3c0-d0a5-11eb-be87-3b2bdf85b6ee">
+                            <a href="../news/new-website.html" class="search__target-link ga-search-link">
+                                <div class="title">
+                                    <span class="wild-id wild-id--light">
+            N / 001
+
+          </span>
+                                    <span class="title__headline">We have a new website!</span>
+                                </div>
+                            </a>
+                        </li>
+                        <li class="search__li  js-search-item " data-collection="news" data-title="News template" data-content="News template" data-extra="" data-wild="N / 002
+" id="280901c0-d0a5-11eb-9548-53d0bb289835">
+                            <a href="../news/news-template.html" class="search__target-link ga-search-link">
+                                <div class="title">
+                                    <span class="wild-id wild-id--light">
+            N / 002
+
+          </span>
+                                    <span class="title__headline">News template</span>
+                                </div>
+                            </a>
+
+
+
+
+
+                        </li>
+                        <li class="search__li search__li--first">
+                            <span class="search__section__title js-collection js-collection-team">
+        We are Mandhari
+      </span>
+                        </li>
+
+                        <li class="search__li js-search-item " data-collection="team" data-title="Simon Walsh" data-content="Simon Walsh" data-extra="mment" data-wild="E / 001
+" id="28144610-d0a5-11eb-a8e3-a33a56f01b62">
+                            <a href="../team/simon-walsh.html" class="search__target-link ga-search-link">
+                                <div class="title">
+                                    <span class="wild-id wild-id--light">
+            E / 001
+
+          </span>
+                                    <span class="title__headline">Simon Walsh</span>
+                                </div>
+                            </a>
+                        </li>
+                        <li class="search__li js-search-item " data-collection="team" data-title="Thomas Lichtblau" data-content="Thomas Lichtblau" data-extra="lichti" data-wild="E / 003
+" id="28145400-d0a5-11eb-ad8a-116dfaccee10">
+                            <a href="../team/thomas-lichtblau.html" class="search__target-link ga-search-link">
+                                <div class="title">
+                                    <span class="wild-id wild-id--light">
+            E / 003
+
+          </span>
+                                    <span class="title__headline">Thomas Lichtblau</span>
+                                </div>
+                            </a>
+                        </li>
+
+
+
+                    </ul>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
