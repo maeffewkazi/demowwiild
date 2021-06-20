@@ -18752,7 +18752,7 @@ input[type=text]::-ms-reveal {
 }
 
 .work-single__intro h2 {
-    font-size: 20px;
+    /* font-size: 20px; */
     font-weight: 500;
     line-height: 1.4
 }
