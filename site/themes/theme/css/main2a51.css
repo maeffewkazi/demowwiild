@@ -13361,7 +13361,12 @@ p .emoji {
 
 @media (min-width:765px) {
     .nav {
-        height: 96px
+        height: 56px;
+        border-bottom: 1px solid #e8e8e8;
+        position: fixed;
+        opacity: 1;
+        display: block;
+        background: white;
     }
 }
 
@@ -13433,7 +13438,7 @@ p .emoji {
 @media (min-width:765px) {
     .nav__top {
         padding: 0 48px;
-        height: 96px
+        height: 56px
     }
 }
 
@@ -13445,7 +13450,12 @@ p .emoji {
     -ms-flex-align: center;
     align-items: center;
     -webkit-transition: all .2s ease;
-    transition: all .2s ease
+    transition: all .2s ease;
+    max-width: 150px;
+    height: auto;
+    position: absolute;
+    left: calc(50vw - 75px);
+    top: 10px;
 }
 
 .nav__logo a {
@@ -13531,8 +13541,11 @@ p .emoji {
 }
 
 .nav .logo {
-    max-width: 50px;
-    height: auto
+    max-width: 150px;
+    height: auto;
+    position: absolute;
+    left: calc(50vw - 75px);
+    top: 10px;
 }
 
 .nav .logo path,
@@ -13634,11 +13647,11 @@ p .emoji {
 .navbar {
     position: fixed;
     z-index: 15;
-    bottom: 20px;
-    width: calc(100% - 48px);
+    bottom: 0px;
+    width: 100vw;
     max-width: 1486px;
     background-color: #fff;
-    border-radius: 4px;
+    border-radius: 0px;
     margin: 0 auto;
     left: 50%;
     -webkit-transform: translateX(-50%);
@@ -13647,8 +13660,7 @@ p .emoji {
     display: none;
     -webkit-transition: all .2s ease;
     transition: all .2s ease;
-    -webkit-box-shadow: 0 1px 4px 0 rgba(0, 0, 0, .18);
-    box-shadow: 0 1px 4px 0 rgba(0, 0, 0, .18)
+    border-bottom: 1px solid #e8e8e8;
 }
 
 @media (min-width:1025px) {
@@ -13743,8 +13755,8 @@ p .emoji {
     left: 0;
     width: 100%;
     background: #fff;
-    border-radius: 4px;
-    padding: 22px 66px;
+    border-radius: 0px;
+    padding: 0px;
     -webkit-transition: all .1s ease;
     transition: all .1s ease;
     pointer-events: none;
