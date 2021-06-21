@@ -1,3 +1,40 @@
+@charset "UTF-8";
+@font-face {
+    font-family: Sneak;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url(/site/themes/theme/dist/fonts/Sneak-Light.eot);
+    src: url(/site/themes/theme/dist/fonts/Sneak-Light.eot?#iefix) format("embedded-opentype"), url(/site/themes/theme/dist/fonts/Sneak-Light.woff2) format("woff2"), url(/site/themes/theme/dist/fonts/Sneak-Light.woff) format("woff")
+}
+
+@font-face {
+    font-family: Sneak;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url(/site/themes/theme/dist/fonts/Sneak-Regular.eot);
+    src: url(/site/themes/theme/dist/fonts/Sneak-Regular.eot?#iefix) format("embedded-opentype"), url(/site/themes/theme/dist/fonts/Sneak-Regular.woff2) format("woff2"), url(/site/themes/theme/dist/fonts/Sneak-Regular.woff) format("woff")
+}
+
+@font-face {
+    font-family: Sneak;
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+    src: url(/site/themes/theme/dist/fonts/Sneak-Medium.eot);
+    src: url(/site/themes/theme/dist/fonts/Sneak-Medium.eot?#iefix) format("embedded-opentype"), url(/site/themes/theme/dist/fonts/Sneak-Medium.woff2) format("woff2"), url(/site/themes/theme/dist/fonts/Sneak-Medium.woff) format("woff")
+}
+
+@font-face {
+    font-family: Hairline;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url(/site/themes/theme/dist/fonts/Plain-Hairline.eot);
+    src: url(/site/themes/theme/dist/fonts/Plain-Hairline.eot?#iefix) format("embedded-opentype"), url(/site/themes/theme/dist/fonts/Plain-Hairline.woff2) format("woff2"), url(/site/themes/theme/dist/fonts/Plain-Hairline.woff) format("woff")
+}
+
 .grid {
     position: fixed;
     width: 100%;
@@ -11542,43 +11579,6 @@ button.swiper-pagination-bullet {
 
 .swiper-container-coverflow .swiper-wrapper {
     -ms-perspective: 1200px
-}
-
-@charset "UTF-8";
-@font-face {
-    font-family: Sneak;
-    font-weight: 300;
-    font-style: normal;
-    font-display: swap;
-    src: url(/site/themes/theme/dist/fonts/Sneak-Light.eot);
-    src: url(/site/themes/theme/dist/fonts/Sneak-Light.eot?#iefix) format("embedded-opentype"), url(/site/themes/theme/dist/fonts/Sneak-Light.woff2) format("woff2"), url(/site/themes/theme/dist/fonts/Sneak-Light.woff) format("woff")
-}
-
-@font-face {
-    font-family: Sneak;
-    font-weight: 400;
-    font-style: normal;
-    font-display: swap;
-    src: url(/site/themes/theme/dist/fonts/Sneak-Regular.eot);
-    src: url(/site/themes/theme/dist/fonts/Sneak-Regular.eot?#iefix) format("embedded-opentype"), url(/site/themes/theme/dist/fonts/Sneak-Regular.woff2) format("woff2"), url(/site/themes/theme/dist/fonts/Sneak-Regular.woff) format("woff")
-}
-
-@font-face {
-    font-family: Sneak;
-    font-weight: 500;
-    font-style: normal;
-    font-display: swap;
-    src: url(/site/themes/theme/dist/fonts/Sneak-Medium.eot);
-    src: url(/site/themes/theme/dist/fonts/Sneak-Medium.eot?#iefix) format("embedded-opentype"), url(/site/themes/theme/dist/fonts/Sneak-Medium.woff2) format("woff2"), url(/site/themes/theme/dist/fonts/Sneak-Medium.woff) format("woff")
-}
-
-@font-face {
-    font-family: Hairline;
-    font-weight: 400;
-    font-style: normal;
-    font-display: swap;
-    src: url(/site/themes/theme/dist/fonts/Plain-Hairline.eot);
-    src: url(/site/themes/theme/dist/fonts/Plain-Hairline.eot?#iefix) format("embedded-opentype"), url(/site/themes/theme/dist/fonts/Plain-Hairline.woff2) format("woff2"), url(/site/themes/theme/dist/fonts/Plain-Hairline.woff) format("woff")
 }
 
 body {
