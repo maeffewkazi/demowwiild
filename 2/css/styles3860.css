@@ -2602,7 +2602,7 @@ body.open-menu #mobile-menu .menu-toggle .menu span:nth-of-type(3) {
 
 .page-home .projects-container .col article .text h3,
 .page-home .projects-container .col article .text h4 {
-    color: #fff
+    color: black
 }
 
 .page-home .projects-container .col article .text h4 {
@@ -2734,11 +2734,11 @@ body.open-menu #mobile-menu .menu-toggle .menu span:nth-of-type(3) {
 }
 
 .page-home .projects-container article.robertson:before {
-    background-image: radial-gradient(circle 366px at 100% 0, #f6f6f6 0, #f1f1f1 100%)
+    /* background-image: radial-gradient(circle 366px at 100% 0, #f6f6f6 0, #f1f1f1 100%) */
 }
 
 .page-home .projects-container article.magturbo:before {
-    background-image: radial-gradient(circle 366px at 100% 0, #2f94f1 0, #015bad 100%)
+    /* background-image: radial-gradient(circle 366px at 100% 0, #2f94f1 0, #015bad 100%) */
 }
 
 .page-home .projects-container article.taz:before {
