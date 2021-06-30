@@ -4,8 +4,8 @@
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url(/site/themes/theme/dist/fonts/Sneak-Light.eot);
-    src: url(/site/themes/theme/dist/fonts/Sneak-Light.eot?#iefix) format("embedded-opentype"), url(/site/themes/theme/dist/fonts/Sneak-Light.woff2) format("woff2"), url(/site/themes/theme/dist/fonts/Sneak-Light.woff) format("woff")
+    src: url(../dist/fonts/Sneak-Light.eot);
+    src: url(../dist/fonts/Sneak-Light.eot?#iefix) format("embedded-opentype"), url(../dist/fonts/Sneak-Light.woff2) format("woff2"), url(../dist/fonts/Sneak-Light.woff) format("woff")
 }
 
 @font-face {
@@ -13,8 +13,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url(/site/themes/theme/dist/fonts/Sneak-Regular.eot);
-    src: url(/site/themes/theme/dist/fonts/Sneak-Regular.eot?#iefix) format("embedded-opentype"), url(/site/themes/theme/dist/fonts/Sneak-Regular.woff2) format("woff2"), url(/site/themes/theme/dist/fonts/Sneak-Regular.woff) format("woff")
+    src: url(../dist/fonts/Sneak-Regular.eot);
+    src: url(../dist/fonts/Sneak-Regular.eot?#iefix) format("embedded-opentype"), url(../dist/fonts/Sneak-Regular.woff2) format("woff2"), url(../dist/fonts/Sneak-Regular.woff) format("woff")
 }
 
 @font-face {
@@ -22,8 +22,8 @@
     font-weight: 500;
     font-style: normal;
     font-display: swap;
-    src: url(/site/themes/theme/dist/fonts/Sneak-Medium.eot);
-    src: url(/site/themes/theme/dist/fonts/Sneak-Medium.eot?#iefix) format("embedded-opentype"), url(/site/themes/theme/dist/fonts/Sneak-Medium.woff2) format("woff2"), url(/site/themes/theme/dist/fonts/Sneak-Medium.woff) format("woff")
+    src: url(../dist/fonts/Sneak-Medium.eot);
+    src: url(../dist/fonts/Sneak-Medium.eot?#iefix) format("embedded-opentype"), url(../dist/fonts/Sneak-Medium.woff2) format("woff2"), url(../dist/fonts/Sneak-Medium.woff) format("woff")
 }
 
 @font-face {
@@ -31,8 +31,8 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url(/site/themes/theme/dist/fonts/Plain-Hairline.eot);
-    src: url(/site/themes/theme/dist/fonts/Plain-Hairline.eot?#iefix) format("embedded-opentype"), url(/site/themes/theme/dist/fonts/Plain-Hairline.woff2) format("woff2"), url(/site/themes/theme/dist/fonts/Plain-Hairline.woff) format("woff")
+    src: url(../dist/fonts/Plain-Hairline.eot);
+    src: url(../dist/fonts/Plain-Hairline.eot?#iefix) format("embedded-opentype"), url(../dist/fonts/Plain-Hairline.woff2) format("woff2"), url(../dist/fonts/Plain-Hairline.woff) format("woff")
 }
 
 .grid {
@@ -4620,7 +4620,7 @@ body {
         margin-left: 4.16667%
     }
     .suffix-1\@md {
-        margin-right: 4.16667%
+        margin-right: 0
     }
     .order-2\@md {
         -webkit-box-ordinal-group: 3;
@@ -4729,9 +4729,9 @@ body {
         order: 6
     }
     .gr-6\@md {
-        -ms-flex-preferred-size: 25%;
-        flex-basis: 25%;
-        max-width: 25%
+        -ms-flex-preferred-size: 33%;
+        flex-basis: 33%;
+        max-width: 33%
     }
     .push-6\@md {
         left: 25%;
@@ -16799,7 +16799,8 @@ input[type=text]::-ms-reveal {
 
 @media (min-width: 1025px) {
     .work-hero {
-        margin-bottom: 80px
+        margin-bottom: 80px;
+        padding-left:48px
     }
 }
 
@@ -18615,6 +18616,7 @@ input[type=text]::-ms-reveal {
 
 .work-single__headline {
     margin-bottom: 65px
+
 }
 
 .work-single__headline-quickmode {
