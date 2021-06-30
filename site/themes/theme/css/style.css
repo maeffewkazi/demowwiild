@@ -13365,6 +13365,9 @@ p .emoji {
         height: 56px
     }
 }
+.nav--light {
+background: white;
+}
 
 .nav--light .logo.white path,
 .nav--light .logo.white polygon,
@@ -13403,6 +13406,10 @@ p .emoji {
 .nav--search-open .logo polygon,
 .nav--search-open .logo rect {
     fill: #fff !important
+}
+
+.nav--search-open  {
+    background: #231f20 !important
 }
 
 .nav--search-open.white path,
