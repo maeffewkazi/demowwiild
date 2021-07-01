@@ -8322,6 +8322,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/mandhari_imgs\/gardening.jpg" : {
+      "ft" : 16384,
+      "iS" : 225445,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/assets\/mandhari_imgs\/gardening.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/assets\/mandhari_imgs\/GreenFrame-1-800x800.jpg" : {
       "ft" : 16384,
       "iS" : 39327,
@@ -8449,12 +8462,38 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/mandhari_imgs\/nursery.jpg" : {
+      "ft" : 16384,
+      "iS" : 245577,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/assets\/mandhari_imgs\/nursery.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/assets\/mandhari_imgs\/photo-1474265648294-a4236906a526.jpg" : {
       "ft" : 16384,
       "iS" : 226798,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/build\/assets\/mandhari_imgs\/photo-1474265648294-a4236906a526.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/mandhari_imgs\/services_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 744541,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/assets\/mandhari_imgs\/services_hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
